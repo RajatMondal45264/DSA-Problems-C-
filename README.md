@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
