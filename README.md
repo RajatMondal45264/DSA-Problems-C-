@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
