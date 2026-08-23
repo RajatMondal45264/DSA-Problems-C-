@@ -70,8 +70,7 @@ public:
             {
                 return true;
             }
-
-            // Important condition
+            
             int diff = leftMark - rightMark;
 
             if(leftSum + (diff * 9) / 2 == rightSum)
