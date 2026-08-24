@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -116,5 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
