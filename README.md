@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0038-count-and-say) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
