@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -166,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
