@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
