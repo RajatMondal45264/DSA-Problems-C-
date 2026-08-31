@@ -23,10 +23,10 @@ public:
 
              if ((curr->val > prev->val && curr->val > next->val) ||
                 (curr->val < prev->val && curr->val < next->val)) 
-            {
+                {
 
-                critical.push_back(position);
-            }
+                    critical.push_back(position);
+                }
 
             prev = curr;
             curr = next;
