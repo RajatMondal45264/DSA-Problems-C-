@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
