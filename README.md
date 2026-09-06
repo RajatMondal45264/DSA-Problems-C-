@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
