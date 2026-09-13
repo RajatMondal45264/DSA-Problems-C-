@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
+| [0835-image-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0931-minimum-falling-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0931-minimum-falling-path-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0931-minimum-falling-path-sum) |
 ## Linked List
 |  |
