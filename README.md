@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Knapsack Problem
 |  |
 | ------- |
