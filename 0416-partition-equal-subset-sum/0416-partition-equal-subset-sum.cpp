@@ -1,8 +1,7 @@
 class Solution {
 public:
 
-    bool solve(vector<int>& nums, int index, int sum, int target,
-               vector<vector<int>>& dp)
+    bool solve(vector<int>& nums, int index, int sum, int target, vector<vector<int>>& dp)
     {
         if(sum == target)
         {
@@ -18,13 +17,12 @@ public:
         {
             return dp[index][sum];
         }
-        
+
         if(solve(nums, index + 1, sum + nums[index], target, dp))
         {
             return dp[index][sum] = true;
         }
-
-        // Not take current element
+        
         if(solve(nums, index + 1, sum, target, dp))
         {
             return dp[index][sum] = true;
