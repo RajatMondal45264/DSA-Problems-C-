@@ -7,8 +7,11 @@ public:
         string result = "";
 
         while (i >= 0 || j >= 0 || carry > 0) {
-            int digit1 = (i >= 0) ? nums1[i] : 0;
-            int digit2 = (j >= 0) ? nums2[j] : 0;
+            int digit1 = 0;
+            int digit2 = 0;
+
+            if (i >= 0) digit1 = nums1[i];
+            if (j >= 0) digit2 = nums2[j];
 
             int sum = digit1 + digit2 + carry;
             carry = sum / 10;                 
