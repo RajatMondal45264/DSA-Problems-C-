@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
