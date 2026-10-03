@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0168-excel-sheet-column-title) |
@@ -265,11 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
