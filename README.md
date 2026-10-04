@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0931-minimum-falling-path-sum) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3524-find-x-value-of-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -268,12 +271,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
