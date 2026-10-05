@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
