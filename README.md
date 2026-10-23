@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3524-find-x-value-of-array-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0371-sum-of-two-integers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
