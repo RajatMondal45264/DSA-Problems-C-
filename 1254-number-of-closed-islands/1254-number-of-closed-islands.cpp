@@ -14,25 +14,50 @@ public:
 
         queue<pair<int,int>> q;
 
-        // ---- Step 1: Boundary se BFS (open islands ko 1 kar do) ----
         // First row
         for (int j = 0; j < c; j++)
-            if (grid[0][j] == 0) { q.push({0,j}); grid[0][j] = 1; }
-
+        {
+            if (grid[0][j] == 0) 
+            { 
+                q.push({0,j});
+                grid[0][j] = 1; 
+            }
+        }
+            
         // First column
         for (int i = 1; i < r; i++)
-            if (grid[i][0] == 0) { q.push({i,0}); grid[i][0] = 1; }
+        {
+            if (grid[i][0] == 0) 
+            { 
+                q.push({i,0}); 
+                grid[i][0] = 1;
+            }
+        }
 
         // Last row
         for (int j = 1; j < c; j++)
-            if (grid[r-1][j] == 0) { q.push({r-1,j}); grid[r-1][j] = 1; }  // ✅ fix
+        {
+            if (grid[r-1][j] == 0) 
+            {
+                q.push({r-1,j}); 
+                grid[r-1][j] = 1; 
+            }
+        } 
 
         // Last column
         for (int i = 1; i < r-1; i++)
-            if (grid[i][c-1] == 0) { q.push({i,c-1}); grid[i][c-1] = 1; }  // ✅ fix
+        {
+            if (grid[i][c-1] == 0) 
+            { 
+                q.push({i,c-1}); 
+                grid[i][c-1] = 1; 
+            }  
+        }
 
         while (!q.empty()) {
-            auto [i, j] = q.front(); q.pop();          // ✅ pop
+            auto [i, j] = q.front(); 
+            q.pop();    
+               
             for (int k = 0; k < 4; k++) {
                 int ni = i + row[k], nj = j + col[k];
                 if (valid(ni,nj) && grid[ni][nj] == 0) {
@@ -54,10 +79,14 @@ public:
                     grid[i][j] = 1;
 
                     while (!qq.empty()) {
-                        auto [x, y] = qq.front(); qq.pop();
-                        for (int k = 0; k < 4; k++) {
+                        auto [x, y] = qq.front(); 
+                        qq.pop();
+
+                        for (int k = 0; k < 4; k++) 
+                        {
                             int nx = x + row[k], ny = y + col[k];
-                            if (valid(nx,ny) && grid[nx][ny] == 0) {
+                            if (valid(nx,ny) && grid[nx][ny] == 0) 
+                            {
                                 grid[nx][ny] = 1;
                                 qq.push({nx,ny});
                             }
