@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0835-image-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0835-image-overlap) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
