@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0994-rotting-oranges) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
