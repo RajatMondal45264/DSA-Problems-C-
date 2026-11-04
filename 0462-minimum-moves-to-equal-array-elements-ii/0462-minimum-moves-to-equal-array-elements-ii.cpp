@@ -12,6 +12,7 @@ public:
         {
             sum += abs(nums[i] - median);
         }
+        
         return (int)sum;
     }
 };
