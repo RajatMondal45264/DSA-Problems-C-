@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1882-process-tasks-using-servers) |
 | [2050-parallel-courses-iii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1882-process-tasks-using-servers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
