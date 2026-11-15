@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2409-count-days-spent-together) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0931-minimum-falling-path-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2050-parallel-courses-iii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
