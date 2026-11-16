@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
