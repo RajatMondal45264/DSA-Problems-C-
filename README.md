@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2050-parallel-courses-iii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3693-climbing-stairs-ii) |
