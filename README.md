@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -423,12 +425,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2050-parallel-courses-iii) |
 ## Graph Coloring
 |  |
