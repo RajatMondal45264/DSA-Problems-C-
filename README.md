@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0226-invert-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
