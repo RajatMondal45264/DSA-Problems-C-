@@ -1,16 +1,15 @@
+
 class Solution {
 public:
     int largestPrime(int n) {
 
         vector<bool> isPrime(n + 1, true);
 
-        isPrime[0] = false;
+        if(n >= 0) isPrime[0] = false;
+        if(n >= 1) isPrime[1] = false;
 
-        if(n >= 1)
-            isPrime[1] = false;
-
-        // Sieve of Eratosthenes
-        for(int i = 2; 1LL * i * i <= n; i++)
+        // Generate Prime Numbers using Sieve
+        for(int i = 2; i * i <= n; i++)
         {
             if(isPrime[i])
             {
@@ -21,23 +20,31 @@ public:
             }
         }
 
-        // Prefix Sum of consecutive primes
-        long long sum = 0;
-        int ans = 0;
+        // Store Prime Numbers
+        vector<int> primes;
 
         for(int i = 2; i <= n; i++)
         {
             if(isPrime[i])
             {
-                sum += i;
+                primes.push_back(i);
+            }
+        }
 
-                if(sum > n)
-                    break;
+        // Cumulative Sum
+        long long sum = 0;
+        int ans = 0;
 
-                if(isPrime[sum])
-                {
-                    ans = sum;
-                }
+        for(int i = 0; i < primes.size(); i++)
+        {
+            sum += primes[i];
+
+            if(sum > n)
+                break;
+
+            if(isPrime[sum])
+            {
+                ans = sum;
             }
         }
 
