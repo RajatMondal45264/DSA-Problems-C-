@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -516,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
