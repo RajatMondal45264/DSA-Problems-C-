@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3498-reverse-degree-of-a-string) |
