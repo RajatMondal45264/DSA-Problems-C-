@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0371-sum-of-two-integers) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
