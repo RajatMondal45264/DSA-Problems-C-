@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2094-finding-3-digit-even-numbers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Matrix
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0415-add-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3360-stone-removal-game](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/3360-stone-removal-game) |
