@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RajatMondal45264/DSA-Problems-C-/tree/master/2149-rearrange-array-elements-by-sign) |
